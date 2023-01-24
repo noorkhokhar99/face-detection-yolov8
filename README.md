@@ -2,7 +2,6 @@
 
 
 
-# yolov8-object-tracking
 
 ### Features
 - Object Tracks
