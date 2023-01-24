@@ -1,14 +1,5 @@
 # face-detection-yolov8
 
-
-
-
-### Features
-- Object Tracks
-- Different Color for every track
-- Video/Image/WebCam/External Camera/IP Stream Supported
-
-
 ### Steps to run Code
 
 - Clone the repository
