@@ -19,12 +19,8 @@ pip install ultralytics==8.0.0
 
 - Do Tracking with mentioned command below
 ```
-
-
 #imagefile
 python filename.py
-
-
 ```
 
 
