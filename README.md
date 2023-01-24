@@ -1,4 +1,4 @@
-# face-detection-yolov8
+# Face Detection with YOLOv8
 
 ### Steps to run Code
 
