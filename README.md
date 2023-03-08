@@ -22,8 +22,10 @@ pip install ultralytics==8.0.0
 #imagefile
 python filename.py
 ```
-
-
+# video 
+```
+yolo task=detect mode=predict model=yolov8n-face.pt conf=0.25 imgsz=1280 line_thickness=1 max_det=1000 source=0
+```
 
 ### Results
 <table>
@@ -37,4 +39,4 @@ python filename.py
 
 
 
-If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
+If you find my videos useful,  I would love your support on Pyresearch: https://youtu.be/_eSArKZBWmE
